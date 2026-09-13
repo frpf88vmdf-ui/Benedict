@@ -1,0 +1,11 @@
+{
+  "name": "samygo-root-test",
+  "version": "0.3.0",
+  "description": "Minimal TizenBrew app test for Tizen 3.0",
+  "packageType": "app",
+  "appName": "SamyGO Root Test",
+  "appPath": "app/index.html",
+  "keys": [],
+  "main": "app/index.html",
+  "license": "MIT"
+}
